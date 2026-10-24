@@ -1038,5 +1038,304 @@
     "sourcePage": 76,
     "allergenNotes": "Fish     Sesame     Soy POKE SAUCE Soy      Gluten     Sesame      Fish",
     "requiresReview": true
+  },
+  {
+    "id": "sushi-roll-01",
+    "name": "Salmon Avocado Roll",
+    "category": "Maki Rolls",
+    "image": "images/sushi-roll-01.webp",
+    "description": "Salmon and avocado rolled in sushi rice and nori, finished with sesame seeds. Eight pieces.",
+    "allergens": [
+      "Fish",
+      "Sesame"
+    ],
+    "sourcePage": 1,
+    "sourceDocument": "ra sushi sushi.pdf",
+    "requiresReview": true,
+    "allergenNotes": "Transcribed from supplied sushi roll recipe screenshot; ingredient and allergen verification required before guest allergen use."
+  },
+  {
+    "id": "sushi-roll-02",
+    "name": "Philadelphia Roll",
+    "category": "Maki Rolls",
+    "image": "images/sushi-roll-02.webp",
+    "description": "Smoked salmon, cream cheese and cucumber rolled in sushi rice and nori, finished with sesame seeds. Eight pieces.",
+    "allergens": [
+      "Fish",
+      "Sesame",
+      "Dairy"
+    ],
+    "sourcePage": 2,
+    "sourceDocument": "ra sushi sushi.pdf",
+    "requiresReview": true,
+    "allergenNotes": "Transcribed from supplied sushi roll recipe screenshot; ingredient and allergen verification required before guest allergen use."
+  },
+  {
+    "id": "sushi-roll-03",
+    "name": "Shrimp Tempura Roll",
+    "category": "Maki Rolls",
+    "image": "images/sushi-roll-03.webp",
+    "description": "Crispy shrimp tempura, krab mix, cucumber, fresh asparagus and avocado rolled in sushi rice and nori. Eight pieces.",
+    "allergens": [
+      "Fish",
+      "Shellfish",
+      "Sesame",
+      "Gluten",
+      "Egg"
+    ],
+    "sourcePage": 3,
+    "sourceDocument": "ra sushi sushi.pdf",
+    "requiresReview": true,
+    "allergenNotes": "Transcribed from supplied sushi roll recipe screenshot; ingredient and allergen verification required before guest allergen use."
+  },
+  {
+    "id": "sushi-roll-04",
+    "name": "Viva Las Vegas",
+    "category": "Signature Rolls",
+    "image": "images/sushi-roll-04.webp",
+    "description": "Lightly battered krab and cream cheese, topped with krab salad and fried lotus root. Eight pieces.",
+    "allergens": [
+      "Shellfish",
+      "Fish",
+      "Soy",
+      "Dairy",
+      "Gluten",
+      "Allium",
+      "Egg"
+    ],
+    "sourcePage": 4,
+    "sourceDocument": "ra sushi sushi.pdf",
+    "requiresReview": true,
+    "allergenNotes": "Transcribed from supplied sushi roll recipe screenshot; ingredient and allergen verification required before guest allergen use."
+  },
+  {
+    "id": "sushi-roll-05",
+    "name": "Adults Only Roll",
+    "category": "Signature Rolls",
+    "image": "images/sushi-roll-05.webp",
+    "description": "Smoked salmon, krab, avocado and cream cheese roll topped with seaweed salad, tobiko, spicy mayo and crispy tempura bits. Eight pieces.",
+    "allergens": [
+      "Fish",
+      "Soy",
+      "Shellfish",
+      "Gluten",
+      "Sesame",
+      "Egg",
+      "Allium"
+    ],
+    "sourcePage": 5,
+    "sourceDocument": "ra sushi sushi.pdf",
+    "requiresReview": true,
+    "allergenNotes": "Transcribed from supplied sushi roll recipe screenshot; ingredient and allergen verification required before guest allergen use."
+  },
+  {
+    "id": "sushi-roll-06",
+    "name": "Baked Scallop Dynamite Roll",
+    "category": "Signature Rolls",
+    "image": "images/sushi-roll-06.webp",
+    "description": "Baked scallop roll with creamy dynamite sauce. Description requires restaurant verification against source card.",
+    "allergens": [
+      "Mollusk",
+      "Sesame",
+      "Fish",
+      "Soy",
+      "Dairy",
+      "Gluten",
+      "Allium",
+      "Egg"
+    ],
+    "sourcePage": 6,
+    "sourceDocument": "ra sushi sushi.pdf",
+    "requiresReview": true,
+    "allergenNotes": "Transcribed from supplied sushi roll recipe screenshot; ingredient and allergen verification required before guest allergen use."
+  },
+  {
+    "id": "sushi-roll-07",
+    "name": "Chili Ponzu Yellowtail Roll",
+    "category": "Signature Rolls",
+    "image": "images/sushi-roll-07.webp",
+    "description": "Spicy yellowtail mix, cucumber, avocado, jalapeño and cilantro, topped with yellowtail, green onions, crispy garlic and chili ponzu. Eight pieces.",
+    "allergens": [
+      "Fish",
+      "Soy",
+      "Allium",
+      "Shellfish",
+      "Egg",
+      "Sesame",
+      "Gluten"
+    ],
+    "sourcePage": 7,
+    "sourceDocument": "ra sushi sushi.pdf",
+    "requiresReview": true,
+    "allergenNotes": "Transcribed from supplied sushi roll recipe screenshot; ingredient and allergen verification required before guest allergen use."
+  },
+  {
+    "id": "sushi-roll-08",
+    "name": "Chili Shrimp Roll",
+    "category": "Signature Rolls",
+    "image": "images/sushi-roll-08.webp",
+    "description": "Lightly battered krab and cream cheese with krab salad, jalapeños and spicy fried shrimp on top. Eight pieces.",
+    "allergens": [
+      "Shellfish",
+      "Fish",
+      "Soy",
+      "Dairy",
+      "Gluten",
+      "Allium",
+      "Egg"
+    ],
+    "sourcePage": 8,
+    "sourceDocument": "ra sushi sushi.pdf",
+    "requiresReview": true,
+    "allergenNotes": "Transcribed from supplied sushi roll recipe screenshot; ingredient and allergen verification required before guest allergen use."
+  },
+  {
+    "id": "sushi-roll-09",
+    "name": "Holy Crab Roll",
+    "category": "Signature Rolls",
+    "image": "images/sushi-roll-09.webp",
+    "description": "Snow crab, avocado and cucumber topped with snow crab, sliced avocado, Asian pesto and mango sauce.",
+    "allergens": [
+      "Shellfish",
+      "Sesame",
+      "Allium",
+      "Gluten",
+      "Soy"
+    ],
+    "sourcePage": 9,
+    "sourceDocument": "ra sushi sushi.pdf",
+    "requiresReview": true,
+    "allergenNotes": "Transcribed from supplied sushi roll recipe screenshot; ingredient and allergen verification required before guest allergen use."
+  },
+  {
+    "id": "sushi-roll-10",
+    "name": "\"RA\"ckin’ Roll",
+    "category": "Signature Rolls",
+    "image": "images/sushi-roll-10.webp",
+    "description": "Lightly battered krab and cream cheese, guacamole and fried shrimp with ginger teriyaki sauce and red tempura bits. Eight pieces.",
+    "allergens": [
+      "Fish",
+      "Gluten",
+      "Shellfish",
+      "Dairy",
+      "Allium"
+    ],
+    "sourcePage": 10,
+    "sourceDocument": "ra sushi sushi.pdf",
+    "requiresReview": true,
+    "allergenNotes": "Transcribed from supplied sushi roll recipe screenshot; ingredient and allergen verification required before guest allergen use."
+  },
+  {
+    "id": "sushi-roll-11",
+    "name": "Smokey Salmon Roll",
+    "category": "Signature Rolls",
+    "image": "images/sushi-roll-11.webp",
+    "description": "Salmon, avocado, cucumber and smoky mayo. Eight pieces.",
+    "allergens": [
+      "Fish",
+      "Soy",
+      "Gluten",
+      "Dairy",
+      "Allium",
+      "Egg"
+    ],
+    "sourcePage": 11,
+    "sourceDocument": "ra sushi sushi.pdf",
+    "requiresReview": true,
+    "allergenNotes": "Transcribed from supplied sushi roll recipe screenshot; ingredient and allergen verification required before guest allergen use."
+  },
+  {
+    "id": "sushi-roll-12",
+    "name": "Naughty Toro Roll",
+    "category": "Signature Rolls",
+    "image": "images/sushi-roll-12.webp",
+    "description": "Tuna and toro roll with avocado, jalapeño and wasabi. Eight pieces.",
+    "allergens": [
+      "Fish",
+      "Soy",
+      "Gluten",
+      "Allium"
+    ],
+    "sourcePage": 12,
+    "sourceDocument": "ra sushi sushi.pdf",
+    "requiresReview": true,
+    "allergenNotes": "Transcribed from supplied sushi roll recipe screenshot; ingredient and allergen verification required before guest allergen use."
+  },
+  {
+    "id": "sushi-roll-13",
+    "name": "Rainbow Roll",
+    "category": "Signature Rolls",
+    "image": "images/sushi-roll-13.webp",
+    "description": "Krab mix, avocado and cucumber rolled in rice and nori, topped with tuna, snapper, yellowtail, shrimp and avocado. Eight pieces.",
+    "allergens": [
+      "Fish",
+      "Soy",
+      "Shellfish",
+      "Sesame",
+      "Gluten",
+      "Egg"
+    ],
+    "sourcePage": 13,
+    "sourceDocument": "ra sushi sushi.pdf",
+    "requiresReview": true,
+    "allergenNotes": "Transcribed from supplied sushi roll recipe screenshot; ingredient and allergen verification required before guest allergen use."
+  },
+  {
+    "id": "sushi-roll-14",
+    "name": "Lobster Shrimp Roll",
+    "category": "Signature Rolls",
+    "image": "images/sushi-roll-14.webp",
+    "description": "Lobster mix, avocado and cucumber topped with shrimp. Eight pieces.",
+    "allergens": [
+      "Shellfish",
+      "Allium",
+      "Sesame",
+      "Egg"
+    ],
+    "sourcePage": 14,
+    "sourceDocument": "ra sushi sushi.pdf",
+    "requiresReview": true,
+    "allergenNotes": "Transcribed from supplied sushi roll recipe screenshot; ingredient and allergen verification required before guest allergen use."
+  },
+  {
+    "id": "sushi-roll-15",
+    "name": "Ultimate Shrimp Tempura",
+    "category": "Signature Rolls",
+    "image": "images/sushi-roll-15.webp",
+    "description": "Krab mix, shrimp tempura and cucumber topped with tuna and avocado. Eight pieces.",
+    "allergens": [
+      "Shellfish",
+      "Sesame",
+      "Fish",
+      "Soy",
+      "Dairy",
+      "Gluten",
+      "Allium",
+      "Egg"
+    ],
+    "sourcePage": 15,
+    "sourceDocument": "ra sushi sushi.pdf",
+    "requiresReview": true,
+    "allergenNotes": "Transcribed from supplied sushi roll recipe screenshot; ingredient and allergen verification required before guest allergen use."
+  },
+  {
+    "id": "sushi-roll-16",
+    "name": "Crazy Monkey Roll",
+    "category": "Signature Rolls",
+    "image": "images/sushi-roll-16.webp",
+    "description": "Smoked salmon, cream cheese and mango topped with avocado, cashews and crispy tempura bits, finished with eel and mango sauces. Eight pieces.",
+    "allergens": [
+      "Fish",
+      "Tree Nuts",
+      "Allium",
+      "Sesame",
+      "Soy",
+      "Gluten",
+      "Dairy"
+    ],
+    "sourcePage": 16,
+    "sourceDocument": "ra sushi sushi.pdf",
+    "requiresReview": true,
+    "allergenNotes": "Transcribed from supplied sushi roll recipe screenshot; ingredient and allergen verification required before guest allergen use."
   }
 ]
