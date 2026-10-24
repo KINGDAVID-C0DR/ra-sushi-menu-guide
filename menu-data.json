@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "item-5",
+    "name": "Pork Gyoza",
+    "category": "Small Plates",
+    "image": "images/item-05.webp",
+    "description": "Pork Pan pan fried dumplings. Served with Ponzu Sauce",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Pork",
+      "Soy"
+    ],
+    "sourcePage": 5,
+    "allergenNotes": "Pork     Gluten     Allium     Sesame Soy PONZU SAUCE: Gluten      Soy",
+    "requiresReview": true
+  },
+  {
+    "id": "item-6",
+    "name": "A5 Japanese Wagyu & Pork Potstickers",
+    "category": "Small Plates",
+    "image": "images/item-06.webp",
+    "description": "A5 Japanese Wagyu pan fried dumplings. Served with ginger Sauce",
+    "allergens": [
+      "Shellfish",
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Pork",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 6,
+    "allergenNotes": "Pork     Gluten     Allium     Egg Shellfish     Sesame GINGER SAUCE: Gluten      Soy     Sesame      Allium",
+    "requiresReview": true
+  },
+  {
+    "id": "item-7",
+    "name": "Pineapple Cheese Wontons",
+    "category": "Small Plates",
+    "image": "images/item-07.webp",
+    "description": "Homemade crispy wontons filled with pineapple, cream cheese, and green onions. Served with a pineapple dipping sauce.",
+    "allergens": [
+      "Gluten",
+      "Allium",
+      "Dairy",
+      "Egg"
+    ],
+    "sourcePage": 7,
+    "allergenNotes": "Dairy      Gluten      Egg      Allium",
+    "requiresReview": true
+  },
+  {
+    "id": "item-8",
+    "name": "Wings - Black Pepper Soy",
+    "category": "Small Plates",
+    "image": "images/item-08.webp",
+    "description": "Crispy chicken wings glazed in black pepper teriyaki sauce and finished with sesame seeds and fresh parsley.",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Soy"
+    ],
+    "sourcePage": 8,
+    "allergenNotes": "Sesame      Gluten     Soy BLACK PEPPER TERIYAKI SAUCE: Sesame      Gluten     Soy      Allium",
+    "requiresReview": true
+  },
+  {
+    "id": "item-9",
+    "name": "Wings - Sesame Garlic",
+    "category": "Small Plates",
+    "image": "images/item-09.webp",
+    "description": "Crispy chicken wings tossed in signature Garlic Butter and finished with sesame seeds and fresh parsley.",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Soy"
+    ],
+    "sourcePage": 9,
+    "allergenNotes": "Sesame      Allium SESAME GARLIC SAUCE: Sesame      Allium     Soy      Gluten",
+    "requiresReview": true
+  },
+  {
+    "id": "item-10",
+    "name": "Wings - Teriyaki",
+    "category": "Small Plates",
+    "image": "images/item-10.webp",
+    "description": "Crispy chicken wings tossed in bold spicy sauce and finished with sesame seeds and fresh parsley.",
+    "allergens": [
+      "Alcohol",
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Soy"
+    ],
+    "sourcePage": 10,
+    "allergenNotes": "Sesame      Allium TERIYAKI SAUCE: Soy      Allium      Gluten      Alcohol",
+    "requiresReview": true
+  },
+  {
+    "id": "item-11",
+    "name": "Edamame",
+    "category": "Small Plates",
+    "image": "images/item-11.webp",
+    "description": "Steamed edamame pods tossed in sea salt",
+    "allergens": [
+      "Soy"
+    ],
+    "sourcePage": 11,
+    "allergenNotes": "Soy",
+    "requiresReview": true
+  },
+  {
+    "id": "item-12",
+    "name": "Garlic Edamame",
+    "category": "Small Plates",
+    "image": "images/item-12.webp",
+    "description": "Steamed edamame pods tossed in spicy Tsuyu No Moto Sauce",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Dairy",
+      "Fish",
+      "Soy"
+    ],
+    "sourcePage": 12,
+    "allergenNotes": "Soy      Allium     Sesame       Dairy SPICY TSUYU NO MOTO SAUCE: Soy      Fish      Gluten       Allium",
+    "requiresReview": true
+  },
+  {
+    "id": "item-13",
+    "name": "Shishito Peppers",
+    "category": "Small Plates",
+    "image": "images/item-13.webp",
+    "description": "Shishito peppers sautéed in garlic sauce",
+    "allergens": [
+      "Gluten",
+      "Allium",
+      "Dairy",
+      "Fish",
+      "Soy"
+    ],
+    "sourcePage": 13,
+    "allergenNotes": "Allium      Dairy SPICY TSUYU NO MOTO SAUCE: Allium      Gluten     Soy       Fish",
+    "requiresReview": true
+  },
+  {
+    "id": "item-14",
+    "name": "Bang Bang Shrimp",
+    "category": "Small Plates",
+    "image": "images/item-14.webp",
+    "description": "Spicy tempura shrimp tossed in chili mayo sauce. served with Noodle Chow Mein and crispy rice paper",
+    "allergens": [
+      "Shellfish",
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 14,
+    "allergenNotes": "Shellfish      Gluten      Soy     Egg Allium     Sesame CHILI MAYO SAUCE: Gluten      Allium     Soy     Egg",
+    "requiresReview": true
+  },
+  {
+    "id": "item-15",
+    "name": "Fried Calamari",
+    "category": "Small Plates",
+    "image": "images/item-15.webp",
+    "description": "Crispy Calamari and Shishito Peppers. Served wit crispy rice paper and pineapple chili sauce.",
+    "allergens": [
+      "Mollusk",
+      "Sesame",
+      "Gluten",
+      "Allium"
+    ],
+    "sourcePage": 15,
+    "allergenNotes": "Mollusk      Gluten      Allium Sesame",
+    "requiresReview": true
+  },
+  {
+    "id": "item-16",
+    "name": "Vegetable Tempura",
+    "category": "Small Plates",
+    "image": "images/item-16.webp",
+    "description": "Lightly battered and crispy asparagus, onion, red bell pepper, zucchini, and carrots, served with tempura dipping sauce.",
+    "allergens": [
+      "Gluten",
+      "Allium",
+      "Fish",
+      "Soy"
+    ],
+    "sourcePage": 16,
+    "allergenNotes": "Gluten      Allium TEMPURA SAUCE: Gluten     Soy       Fish",
+    "requiresReview": true
+  },
+  {
+    "id": "item-17",
+    "name": "Miso Soup",
+    "category": "Small Plates",
+    "image": "images/item-17.webp",
+    "description": "A delicious blend of Miso, Green Onion, Wakame (Seaweed), and Tofu.",
+    "allergens": [
+      "Alcohol",
+      "Allium",
+      "Fish",
+      "Soy"
+    ],
+    "sourcePage": 17,
+    "allergenNotes": "Soy       Allium       Fish       Alcohol",
+    "requiresReview": true
+  },
+  {
+    "id": "item-18",
+    "name": "Spring Rolls",
+    "category": "Small Plates",
+    "image": "images/item-18.webp",
+    "description": "Golden-fried spring rolls filled with fresh vegetables and served with our signature sesame mustard dipping sauce.",
+    "allergens": [
+      "Mustard",
+      "Alcohol",
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Soy"
+    ],
+    "sourcePage": 18,
+    "allergenNotes": "Soy     Sesame     Gluten      Allium SESAME MUSTARD SAUCE: Gluten     Soy    Sesame      Allium Mustard      Alcohol",
+    "requiresReview": true
+  },
+  {
+    "id": "item-19",
+    "name": "Chili Ponzu Yellowtail",
+    "category": "Small Plates",
+    "image": "images/item-19.webp",
+    "description": "Thinly sliced yellowtail topped with jalapeño, cilantro and sautéed cashews. Served with a chili ponzu sauce.",
+    "allergens": [
+      "Peanuts",
+      "Gluten",
+      "Allium",
+      "Fish",
+      "Soy"
+    ],
+    "sourcePage": 19,
+    "allergenNotes": "Fish      Gluten      Peanuts CHILI PONZU SAUCE: Gluten      Allium     Soy",
+    "requiresReview": true
+  },
+  {
+    "id": "item-20",
+    "name": "Crispy Rice - Spicy Tuna",
+    "category": "Small Plates",
+    "image": "images/item-20.webp",
+    "description": "Tuna, Crunchy Sesame Sushi Rice, Jalapeño, Cilantro, drizzled with Black Pepper Soy Sauce. (4 Pieces)",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Fish",
+      "Soy"
+    ],
+    "sourcePage": 20,
+    "allergenNotes": "Fish     Soy      Allium     Sesame Gluten BLACK PEPPER SOY SAUCE: Sesame      Gluten     Soy      Allium",
+    "requiresReview": true
+  },
+  {
+    "id": "item-21",
+    "name": "Crispy Rice - Spicy Yellowtail",
+    "category": "Small Plates",
+    "image": "images/item-21.webp",
+    "description": "Yellowtail, Crunchy Sesame Sushi Rice, Jalapeño, Cilantro, drizzled with Black Pepper Soy Sauce. (4 Pieces)",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Fish",
+      "Soy"
+    ],
+    "sourcePage": 21,
+    "allergenNotes": "Fish     Soy      Allium     Sesame Gluten BLACK PEPPER SOY SAUCE: Sesame      Gluten     Soy      Allium",
+    "requiresReview": true
+  },
+  {
+    "id": "item-22",
+    "name": "Crispy Rice - Spicy Salmon",
+    "category": "Small Plates",
+    "image": "images/item-22.webp",
+    "description": "Salmon, Crunchy Sesame Sushi Rice, Jalapeño, Cilantro, drizzled with Black Pepper Soy Sauce. (4 Pieces)",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Fish",
+      "Soy"
+    ],
+    "sourcePage": 22,
+    "allergenNotes": "Fish     Soy      Allium     Sesame Gluten BLACK PEPPER SOY SAUCE: Sesame      Gluten     Soy      Allium",
+    "requiresReview": true
+  },
+  {
+    "id": "item-23",
+    "name": "Crispy Rice - Smoked Salmon",
+    "category": "Small Plates",
+    "image": "images/item-23.webp",
+    "description": "Creamy Smoked Salmon, Crunchy Sesame Sushi Rice, Dill, drizzled with Black Pepper Soy Sauce. (4 Pieces)",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Fish",
+      "Soy"
+    ],
+    "sourcePage": 23,
+    "allergenNotes": "Fish     Soy      Allium Gluten     Sesame BLACK PEPPER SOY SAUCE: Sesame      Gluten     Soy      Allium",
+    "requiresReview": true
+  },
+  {
+    "id": "item-24",
+    "name": "Crispy Rice - Krab Mix & Avocado",
+    "category": "Small Plates",
+    "image": "images/item-24.webp",
+    "description": "Krab Mix, Crunchy Sesame Sushi Rice, Avocado, drizzled with Spicy Mayo and Black Pepper Soy Sauce.(4 Pieces)",
+    "allergens": [
+      "Shellfish",
+      "Mustard",
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Fish",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 24,
+    "allergenNotes": "Fish     Soy     Allium    Sesame     Gluten Egg       Shellfish BLACK PEPPER SOY SAUCE: Sesame      Gluten     Soy      Allium SPICY MAYONNAISE: Allium    Soy    Sesame     Egg     Mustard",
+    "requiresReview": true
+  },
+  {
+    "id": "item-25",
+    "name": "Sushi Nachos",
+    "category": "Small Plates",
+    "image": "images/item-25.webp",
+    "description": "Spicy tuna, krab, salmon, tuna, yellowtail, avocado, jalapeño, over the a bed of crispy tortilla chips. Drizzled with spicy mayo and eel sauce",
+    "allergens": [
+      "Shellfish",
+      "Mustard",
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Fish",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 25,
+    "allergenNotes": "Fish     Soy      Allium     Sesame     Gluten Shellfish      Egg EEL SAUCE:          SPICY MAYONNAISE: Soy                      Allium     Soy      Egg Gluten               Sesame     Mustard",
+    "requiresReview": true
+  },
+  {
+    "id": "item-27",
+    "name": "Snack Rolls - California Roll",
+    "category": "Small Plates",
+    "image": "images/item-27.webp",
+    "description": "Krab mix, avocado, and crisp cucumber rolled in seasoned rice with sesame seeds and nori. (Cut into 4 pieces)",
+    "allergens": [
+      "Shellfish",
+      "Mustard",
+      "Sesame",
+      "Allium",
+      "Fish",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 27,
+    "allergenNotes": "Fish       Shellfish     Mustard     Soy Egg     Sesame       Allium",
+    "requiresReview": true
+  },
+  {
+    "id": "item-28",
+    "name": "Snack Rolls - Spicy Tuna Roll",
+    "category": "Small Plates",
+    "image": "images/item-28.webp",
+    "description": "Spicy tuna mix and crisp cucumber rolled in seasoned rice with sesame seeds and nori. (Cut into 4 pieces)",
+    "allergens": [
+      "Mustard",
+      "Sesame",
+      "Allium",
+      "Fish",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 28,
+    "allergenNotes": "Sesame     Mustard     Soy                                             Fish Egg       Allium",
+    "requiresReview": true
+  },
+  {
+    "id": "item-29",
+    "name": "Snack Rolls - Spicy Salmon Roll",
+    "category": "Small Plates",
+    "image": "images/item-29.webp",
+    "description": "Spicy salmon mix and crisp cucumber rolled in seasoned rice with sesame seeds and nori. (Cut into 4 pieces)",
+    "allergens": [
+      "Mustard",
+      "Sesame",
+      "Allium",
+      "Fish",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 29,
+    "allergenNotes": "Sesame     Mustard     Soy                                          Fish Egg       Allium",
+    "requiresReview": true
+  },
+  {
+    "id": "item-30",
+    "name": "Snack Rolls - Shrimp Tempura",
+    "category": "Small Plates",
+    "image": "images/item-30.webp",
+    "description": "Crispy shrimp tempura, krab mix, avocado, cucumber, and asparagus rolled in seasoned rice and nori, served with pickled ginger and wasabi. (Cut into 4 pieces)",
+    "allergens": [
+      "Shellfish",
+      "Mustard",
+      "Sesame",
+      "Allium",
+      "Fish",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 30,
+    "allergenNotes": "Fish       Shellfish     Mustard     Soy Egg     Sesame       Allium",
+    "requiresReview": true
+  },
+  {
+    "id": "item-31",
+    "name": "Snack Rolls - Salmon Avocado",
+    "category": "Small Plates",
+    "image": "images/item-31.webp",
+    "description": "Salmon and avocado rolled in seasoned rice with sesame seeds and nori. (Cut into 4 pieces)",
+    "allergens": [
+      "Sesame",
+      "Fish"
+    ],
+    "sourcePage": 31,
+    "allergenNotes": "Fish     Sesame",
+    "requiresReview": true
+  },
+  {
+    "id": "item-32",
+    "name": "Snack Rolls - Philadelphia Roll",
+    "category": "Small Plates",
+    "image": "images/item-32.webp",
+    "description": "Smoked Salmon, Cucumber, and Cream Cheese rolled in seasoned rice with sesame seeds and nori. (Cut into 4 pieces)",
+    "allergens": [
+      "Sesame",
+      "Dairy",
+      "Fish"
+    ],
+    "sourcePage": 32,
+    "allergenNotes": "Fish     Sesame       Dairy",
+    "requiresReview": true
+  },
+  {
+    "id": "item-34",
+    "name": "Hibachi Filet Mignon",
+    "category": "Small Plates",
+    "image": "images/item-34.webp",
+    "description": "Tender Filet Mignon. Served with Mushrooms, Zucchini, Onions, Mustard Sauce, and Ginger Sauce",
+    "allergens": [
+      "Mustard",
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Soy"
+    ],
+    "sourcePage": 34,
+    "allergenNotes": "Soy      Gluten      Allium GINGER SAUCE:     MUSTARD SAUCE: Soy                                            Gluten              Gluten Allium              Allium      Mustard Sesame                                        Soy",
+    "requiresReview": true
+  },
+  {
+    "id": "item-35",
+    "name": "Hibachi Ribeye",
+    "category": "Small Plates",
+    "image": "images/item-35.webp",
+    "description": "Tender Ribeye. Served with Mushrooms, Zucchini, Onions, Mustard Sauce, and Ginger Sauce",
+    "allergens": [
+      "Mustard",
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Soy"
+    ],
+    "sourcePage": 35,
+    "allergenNotes": "Soy      Gluten      Allium GINGER SAUCE:     MUSTARD SAUCE: Soy                                            Gluten              Gluten Allium              Allium      Mustard Sesame                                        Soy",
+    "requiresReview": true
+  },
+  {
+    "id": "item-36",
+    "name": "Hibachi Chicken",
+    "category": "Small Plates",
+    "image": "images/item-36.webp",
+    "description": "Chicken. Served with Mushrooms, Zucchini, Onions, Mustard Sauce, and Ginger Sauce",
+    "allergens": [
+      "Mustard",
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Soy"
+    ],
+    "sourcePage": 36,
+    "allergenNotes": "Soy      Gluten      Allium    Sesame GINGER SAUCE:     MUSTARD SAUCE: Soy                                            Gluten              Gluten Allium              Allium      Mustard Sesame                                        Soy",
+    "requiresReview": true
+  },
+  {
+    "id": "item-37",
+    "name": "Hibachi Shrimp",
+    "category": "Small Plates",
+    "image": "images/item-37.webp",
+    "description": "Chicken. Served with Mushrooms, Zucchini, Onions, Mustard Sauce, and Ginger Sauce",
+    "allergens": [
+      "Shellfish",
+      "Mustard",
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Soy"
+    ],
+    "sourcePage": 37,
+    "allergenNotes": "Soy      Gluten      Allium      Shellfish GINGER SAUCE:     MUSTARD SAUCE: Soy                                            Gluten              Gluten Allium              Allium      Mustard Sesame                                        Soy",
+    "requiresReview": true
+  },
+  {
+    "id": "item-39",
+    "name": "Steak Frities - Sirloin",
+    "category": "Small Plates",
+    "image": "images/item-39.webp",
+    "description": "Sirloin Steak with French Fries. Served with your choose of sauce: Ginger Teriyaki, Black Pepper Soy, or Spicy Mayo",
+    "allergens": [],
+    "sourcePage": 39,
+    "allergenNotes": "RESTRICTIONS:",
+    "requiresReview": true
+  },
+  {
+    "id": "item-40",
+    "name": "Steak Frities - Ribeye",
+    "category": "Small Plates",
+    "image": "images/item-40.webp",
+    "description": "Ribeye Steak with French Fries. Served with your choose of sauce: Ginger Teriyaki, Black Pepper Soy, or Spicy Mayo",
+    "allergens": [],
+    "sourcePage": 40,
+    "allergenNotes": "RESTRICTIONS:",
+    "requiresReview": true
+  },
+  {
+    "id": "item-41",
+    "name": "Steak Frities - Steak & Scallops",
+    "category": "Small Plates",
+    "image": "images/item-41.webp",
+    "description": "Your choose of Sirloin or Ribeye Steak with French Fries and Scallops. Served with your choose of sauce: Ginger Teriyaki, Black Pepper Soy, or Spicy Mayo",
+    "allergens": [
+      "Mollusk"
+    ],
+    "sourcePage": 41,
+    "allergenNotes": "Mollusk",
+    "requiresReview": true
+  },
+  {
+    "id": "item-42",
+    "name": "Steak Frities - Steak & Shrimp",
+    "category": "Small Plates",
+    "image": "images/item-42.webp",
+    "description": "Your choose of Sirloin or Ribeye Steak with French Fries and Shrimp. Served with your choose of sauce: Ginger Teriyaki, Black Pepper Soy, or Spicy Mayo",
+    "allergens": [
+      "Shellfish"
+    ],
+    "sourcePage": 42,
+    "allergenNotes": "Shellfish",
+    "requiresReview": true
+  },
+  {
+    "id": "item-43",
+    "name": "Steak Frities - Steak & Lobster Tail",
+    "category": "Small Plates",
+    "image": "images/item-43.webp",
+    "description": "Your choose of Sirloin or Ribeye Steak with French Fries and Lobster Tail. Served with your choose of sauce: Ginger Teriyaki, Black Pepper Soy, or Spicy Mayo",
+    "allergens": [
+      "Shellfish"
+    ],
+    "sourcePage": 43,
+    "allergenNotes": "Shellfish",
+    "requiresReview": true
+  },
+  {
+    "id": "item-45",
+    "name": "Chicken Noodles",
+    "category": "Small Plates",
+    "image": "images/item-45.webp",
+    "description": "Sautéed Yakisoba Noodles with mixed Vegetables and Chicken. Served with Miso Soup and Uchi No Salad.",
+    "allergens": [
+      "Alcohol",
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Soy"
+    ],
+    "sourcePage": 45,
+    "allergenNotes": "Allium     Soy     Sesame TERIYAKI SAUCE: Soy      Allium      Gluten      Alcohol",
+    "requiresReview": true
+  },
+  {
+    "id": "item-46",
+    "name": "Wagyu Steak Fried Rice",
+    "category": "Small Plates",
+    "image": "images/item-46.webp",
+    "description": "Tender Wagyu Steak, Rice, Egg, and chopped Vegetables cooked to perfection.",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Dairy",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 46,
+    "allergenNotes": "Gluten     Soy      Allium      Dairy Sesame     Egg",
+    "requiresReview": true
+  },
+  {
+    "id": "item-47",
+    "name": "Baked Krab Salmon",
+    "category": "Small Plates",
+    "image": "images/item-47.webp",
+    "description": "Salmon stuffed with a creamy krab and brie filling, baked and finished with garlic butter. Served with steamed asparagus and white rice.",
+    "allergens": [
+      "Shellfish",
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Dairy",
+      "Fish",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 47,
+    "allergenNotes": "Gluten     Soy      Allium      Dairy Sesame     Egg       Shellfish Fish",
+    "requiresReview": true
+  },
+  {
+    "id": "item-48",
+    "name": "““RA”ckin’ Shrimp",
+    "category": "Small Plates",
+    "image": "images/item-48.webp",
+    "description": "Panko-breaded shrimp served with ginger teriyaki dipping sauce.",
+    "allergens": [
+      "Shellfish",
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 48,
+    "allergenNotes": "Shellfish       Gluten     Sesame GINGER TERIYAKI SAUCE: Gluten      Allium     Soy     Egg",
+    "requiresReview": true
+  },
+  {
+    "id": "item-49",
+    "name": "Baked Scallop Dynamite Roll",
+    "category": "Small Plates",
+    "image": "images/item-49.webp",
+    "description": "Panko-breaded shrimp served with ginger teriyaki dipping sauce.",
+    "allergens": [
+      "Mollusk",
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Dairy",
+      "Fish",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 49,
+    "allergenNotes": "Mollusk     Sesame      Fish     Soy Dairy      Gluten      Allium EEL SAUCE:            DYNAMITE SAUCE: Soy      Gluten           Dairy     Egg Allium",
+    "requiresReview": true
+  },
+  {
+    "id": "item-51",
+    "name": "““RA”ckin’ Rice - Chicken",
+    "category": "Small Plates",
+    "image": "images/item-51.webp",
+    "description": "Grilled Chicken, Rice, Egg, and chopped Vegetables cooked to perfection.",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Dairy",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 51,
+    "allergenNotes": "Gluten     Soy      Allium      Dairy Sesame     Egg",
+    "requiresReview": true
+  },
+  {
+    "id": "item-52",
+    "name": "““RA”ckin’ Rice - Spicy Chicken",
+    "category": "Small Plates",
+    "image": "images/item-52.webp",
+    "description": "Our signature fried rice with a little kick. Grilled Chicken, Rice, Egg, and chopped Vegetables.",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Dairy",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 52,
+    "allergenNotes": "Gluten     Soy      Allium      Dairy Sesame     Egg SPICY SAUCE: Sesame      Allium",
+    "requiresReview": true
+  },
+  {
+    "id": "item-53",
+    "name": "““RA”ckin’ Rice - Steak",
+    "category": "Small Plates",
+    "image": "images/item-53.webp",
+    "description": "Grilled Steak, Rice, Egg, and chopped Vegetables cooked to perfection.",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Dairy",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 53,
+    "allergenNotes": "Gluten     Soy      Allium      Dairy Sesame     Egg",
+    "requiresReview": true
+  },
+  {
+    "id": "item-54",
+    "name": "““RA”ckin’ Rice - Shrimp",
+    "category": "Small Plates",
+    "image": "images/item-54.webp",
+    "description": "Grilled Shrimp, Rice, Egg, and chopped Vegetables cooked to perfection.",
+    "allergens": [
+      "Shellfish",
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Dairy",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 54,
+    "allergenNotes": "Gluten     Soy      Allium      Dairy Sesame     Egg      Shellfish",
+    "requiresReview": true
+  },
+  {
+    "id": "item-55",
+    "name": "Lobster Fried Rice",
+    "category": "Small Plates",
+    "image": "images/item-55.webp",
+    "description": "Spicy tempura lobster tail tossed in chili mayo sauce.",
+    "allergens": [
+      "Shellfish",
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Dairy",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 55,
+    "allergenNotes": "Shellfish       Gluten     Soy      Dairy Allium     Sesame     Egg CHILI MAYO SAUCE: Gluten      Allium     Soy     Egg",
+    "requiresReview": true
+  },
+  {
+    "id": "item-57",
+    "name": "Ra Cheeseburger",
+    "category": "Small Plates",
+    "image": "images/item-57.webp",
+    "description": "Black Angus burger with American cheese, sautéed jalapeños and onions, sweet pickles, and special sauce on a black sesame brioche bun, served with crispy fries.",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Dairy",
+      "Egg"
+    ],
+    "sourcePage": 57,
+    "allergenNotes": "Dairy     Sesame      Gluten Allium SPECIAL SAUCE: Allium     Egg",
+    "requiresReview": true
+  },
+  {
+    "id": "item-58",
+    "name": "Fried Chicken Sandwich",
+    "category": "Small Plates",
+    "image": "images/item-58.webp",
+    "description": "Fried chicken breast with sweet pickles, and crispy bacon on a black sesame brioche bun, served with Uchi No House Salad.",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Dairy",
+      "Pork",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 58,
+    "allergenNotes": "Dairy     Sesame      Gluten Allium      Pork RANCH DRESSING: Allium     Egg       Dairy      Soy",
+    "requiresReview": true
+  },
+  {
+    "id": "item-59",
+    "name": "Hibachi Burrito - Chicken",
+    "category": "Small Plates",
+    "image": "images/item-59.webp",
+    "description": "Grilled Chicken and vegetable fried rice wrapped in a warm tortilla, finished with garlic butter and teriyaki sauce. Served with an Uchi No House Salad.",
+    "allergens": [
+      "Alcohol",
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Dairy",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 59,
+    "allergenNotes": "Soy      Allium      Dairy     Sesame Egg      Gluten TERIYAKI SAUCE Soy      Allium      Gluten      Alcohol",
+    "requiresReview": true
+  },
+  {
+    "id": "item-61",
+    "name": "Tunacado Salad",
+    "category": "Small Plates",
+    "image": "images/item-61.webp",
+    "description": "Creamy Tataki salad topped with Tuna, Avocado, and fried yakisoba noodles.",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Fish",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 61,
+    "allergenNotes": "Fish     Sesame GINGER DRESSING Soy      Allium      Gluten CREAMY WASABI SAUCE: Egg     Soy      Allium      Gluten Sesame",
+    "requiresReview": true
+  },
+  {
+    "id": "item-62",
+    "name": "Uchi No House Salad",
+    "category": "Small Plates",
+    "image": "images/item-62.webp",
+    "description": "Crispy greens, red cabbage, carrots, and grape tomatoes in our homemade tangy ginger dressing. Add your choice of grilled salmon, grilled chicken breast, or shrimp tempura",
+    "allergens": [
+      "Mustard",
+      "Gluten",
+      "Allium",
+      "Celery",
+      "Soy"
+    ],
+    "sourcePage": 62,
+    "allergenNotes": "GINGER DRESSING Soy      Allium      Gluten     Mustard Celery",
+    "requiresReview": true
+  },
+  {
+    "id": "item-63",
+    "name": "Nutty Grilled Salad",
+    "category": "Small Plates",
+    "image": "images/item-63.webp",
+    "description": "Fresh mixed greens topped with creamy avocado, edamame, shredded carrots, mandarin oranges, and crunchy cashew nut mix, tossed in our Suehiro vinaigrette.",
+    "allergens": [
+      "Tree Nuts",
+      "Mustard",
+      "Gluten",
+      "Allium",
+      "Celery",
+      "Soy"
+    ],
+    "sourcePage": 63,
+    "allergenNotes": "Soy       Tree Nuts SUEHIRO VINAIGRETTE: Soy      Allium      Gluten     Mustard Celery",
+    "requiresReview": true
+  },
+  {
+    "id": "item-65",
+    "name": "Wagyu Petite Tender",
+    "category": "Small Plates",
+    "image": "images/item-65.webp",
+    "description": "Tender Wagyu petite tender grilled to perfection, served with vegetable fried rice and our signature mustard sauce.",
+    "allergens": [
+      "Mustard",
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Dairy",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 65,
+    "allergenNotes": "Gluten     Soy      Allium      Dairy Sesame     Egg MUSTARD SAUCE: Gluten     Soy      Allium     Mustard Sesame",
+    "requiresReview": true
+  },
+  {
+    "id": "item-66",
+    "name": "Wagyu Noodles",
+    "category": "Small Plates",
+    "image": "images/item-66.webp",
+    "description": "Sautéed Yakisoba Noodles with mixed Vegetables and Wagyu Noodles. Served with Miso Soup and Uchi No Salad.",
+    "allergens": [
+      "Alcohol",
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Dairy",
+      "Soy"
+    ],
+    "sourcePage": 66,
+    "allergenNotes": "Gluten     Soy      Allium      Dairy Sesame TERIYAKI SAUCE: Soy      Allium      Gluten      Alcohol",
+    "requiresReview": true
+  },
+  {
+    "id": "item-68",
+    "name": "Ramen - Spicy Chicken",
+    "category": "Small Plates",
+    "image": "images/item-68.webp",
+    "description": "Chicken, red hot chili garlic with soy pork broth, ramen noodles, soft-boiled egg, naruto, green onions, sesame seeds, and nori",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Fish",
+      "Pork",
+      "Soy"
+    ],
+    "sourcePage": 68,
+    "allergenNotes": "Pork    Sesame      Soy       Gluten Allium      Fish",
+    "requiresReview": true
+  },
+  {
+    "id": "item-69",
+    "name": "Ramen - Chashu",
+    "category": "Small Plates",
+    "image": "images/item-69.webp",
+    "description": "Seared pork chashu (6 pcs), napa cabbage with soy pork broth, ramen noodles, soft- boiled egg, naruto, green onions, sesame seeds, and nori",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Allium",
+      "Fish",
+      "Pork",
+      "Soy"
+    ],
+    "sourcePage": 69,
+    "allergenNotes": "Pork    Sesame      Soy       Gluten Allium      Fish",
+    "requiresReview": true
+  },
+  {
+    "id": "item-71",
+    "name": "Poke Bowl - Ahi Tuna",
+    "category": "Small Plates",
+    "image": "images/item-71.webp",
+    "description": "Ahi Tuna, cucumber, green onions, grape tomatoes, avocados, edamame, seaweed salad, poke sauce and sesame seeds. Served over your choice of steamed rice or mixed greens. Also comes with Miso Soup.",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Fish",
+      "Soy"
+    ],
+    "sourcePage": 71,
+    "allergenNotes": "Fish     Sesame     Soy POKE SAUCE Soy      Gluten     Sesame      Fish",
+    "requiresReview": true
+  },
+  {
+    "id": "item-72",
+    "name": "Poke Bowl - Salmon",
+    "category": "Small Plates",
+    "image": "images/item-72.webp",
+    "description": "Salmon, cucumber, green onions, grape tomatoes, avocados, edamame, seaweed salad, poke sauce and sesame seeds. Served over your choice of steamed rice or mixed greens. Also comes with Miso Soup.",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Fish",
+      "Soy"
+    ],
+    "sourcePage": 72,
+    "allergenNotes": "Fish     Sesame      Soy POKE SAUCE Soy      Gluten     Sesame      Fish",
+    "requiresReview": true
+  },
+  {
+    "id": "item-73",
+    "name": "Poke Bowl - Combo",
+    "category": "Small Plates",
+    "image": "images/item-73.webp",
+    "description": "Assortment of Ahi Tuna, Salmon, Yellowtail, Shrimp, cucumber, green onions, grape tomatoes, avocados, edamame, seaweed salad, poke sauce and sesame seeds. Served over your choice of steamed rice or mixed greens. Also comes with Miso Soup.",
+    "allergens": [
+      "Shellfish",
+      "Sesame",
+      "Gluten",
+      "Fish",
+      "Soy"
+    ],
+    "sourcePage": 73,
+    "allergenNotes": "Fish     Sesame     Soy       Shellfish POKE SAUCE Soy      Gluten     Sesame      Fish",
+    "requiresReview": true
+  },
+  {
+    "id": "item-75",
+    "name": "Pineapple Cake",
+    "category": "Small Plates",
+    "image": "images/item-75.webp",
+    "description": "Pineapple Upside Down Cake served with Vanilla Icecream one top with Caramel Drizzle.",
+    "allergens": [
+      "Tree Nuts",
+      "Peanuts",
+      "Gluten",
+      "Dairy",
+      "Soy",
+      "Egg"
+    ],
+    "sourcePage": 75,
+    "allergenNotes": "Dairy      Egg       Gluten MAY CONTAIN Soy      Tree Nuts      Peanuts",
+    "requiresReview": true
+  },
+  {
+    "id": "item-76",
+    "name": "Sweet Mochi Trio",
+    "category": "Small Plates",
+    "image": "images/item-76.webp",
+    "description": "Three pieces of sweet Japanese rice cake filled with creamy ice cream. Available in Mango, Strawberry, and Chocolate. Choose three of the same flavor or mix and match your favorites.",
+    "allergens": [
+      "Sesame",
+      "Gluten",
+      "Fish",
+      "Soy"
+    ],
+    "sourcePage": 76,
+    "allergenNotes": "Fish     Sesame     Soy POKE SAUCE Soy      Gluten     Sesame      Fish",
+    "requiresReview": true
+  }
+]
