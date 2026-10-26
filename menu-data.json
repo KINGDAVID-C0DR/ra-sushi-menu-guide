@@ -1337,5 +1337,1143 @@
     "sourceDocument": "ra sushi sushi.pdf",
     "requiresReview": true,
     "allergenNotes": "Transcribed from supplied sushi roll recipe screenshot; ingredient and allergen verification required before guest allergen use."
+  },
+  {
+    "id": "cocktail-03",
+    "name": "SAKE FLIGHT –Sake Styles",
+    "category": "Sake Flights",
+    "image": "images/cocktail-03.webp",
+    "description": "Sho Chiku Bai ‘Crème de Sake’ Nigori, Shimizu -No -Mai ‘Pure Dawn’ Junmai Ginjo, MIO Sparking Sake",
+    "allergens": [],
+    "ingredients": [
+      "Sho Chiku Bai ‘Crème de Sake’ Nigori",
+      "Shimizu -No -Mai ‘Pure Dawn’ Junmai Ginjo",
+      "MIO Sparking Sake"
+    ],
+    "garnish": "None specified",
+    "type": "drink",
+    "sourcePage": 3,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-04",
+    "name": "SAKE FLIGHT –Flavored Sake",
+    "category": "Sake Flights",
+    "image": "images/cocktail-04.webp",
+    "description": "Hana Fuji Apple, Hana Lychee, Joto Yuzu",
+    "allergens": [],
+    "ingredients": [
+      "Hana Fuji Apple",
+      "Hana Lychee",
+      "Joto Yuzu"
+    ],
+    "garnish": "None specified",
+    "type": "drink",
+    "sourcePage": 4,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-06",
+    "name": "PAPER PLANE",
+    "category": "Classic Cocktails",
+    "image": "images/cocktail-06.webp",
+    "description": "Simple Syrup, Lemon Juice, Amaro Nonino, Aperol, Angels Envy Bourbon",
+    "allergens": [],
+    "ingredients": [
+      "Simple Syrup",
+      "Lemon Juice",
+      "Amaro Nonino",
+      "Aperol",
+      "Angels Envy Bourbon"
+    ],
+    "garnish": "No garnish",
+    "type": "drink",
+    "sourcePage": 6,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-07",
+    "name": "DIRTY MARTINI",
+    "category": "Classic Cocktails",
+    "image": "images/cocktail-07.webp",
+    "description": "Olive Brine, Ketel One Vodka",
+    "allergens": [],
+    "ingredients": [
+      "Olive Brine",
+      "Ketel One Vodka"
+    ],
+    "garnish": "skewered olives",
+    "type": "drink",
+    "sourcePage": 7,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-08",
+    "name": "COSMOPOLITAN",
+    "category": "Classic Cocktails",
+    "image": "images/cocktail-08.webp",
+    "description": "lime wedge (Squeeze & Drop), cranberry juice, Cointreau Orange Liqueur, Absolut Citron Vodka",
+    "allergens": [],
+    "ingredients": [
+      "lime wedge (Squeeze & Drop)",
+      "cranberry juice",
+      "Cointreau Orange Liqueur",
+      "Absolut Citron Vodka"
+    ],
+    "garnish": "orange peel",
+    "type": "drink",
+    "sourcePage": 8,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-09",
+    "name": "SIDECAR",
+    "category": "Classic Cocktails",
+    "image": "images/cocktail-09.webp",
+    "description": "lemon juice, simple syrup, Cointreau Orange Liqueur, Remy Martin VSOP Cognac",
+    "allergens": [],
+    "ingredients": [
+      "lemon juice",
+      "simple syrup",
+      "Cointreau Orange Liqueur",
+      "Remy Martin VSOP Cognac"
+    ],
+    "garnish": "Sugar rim & Orange peel",
+    "type": "drink",
+    "sourcePage": 9,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-10",
+    "name": "OLD FASHIONED",
+    "category": "Classic Cocktails",
+    "image": "images/cocktail-10.webp",
+    "description": "club soda, granulated sugar 6 dash Angostura Bitters, TOKI Japanese Whiskey or Makers Mark Bourbon (Guest Choice)",
+    "allergens": [],
+    "ingredients": [
+      "club soda",
+      "granulated sugar 6 dash Angostura Bitters",
+      "TOKI Japanese Whiskey or Makers Mark Bourbon (Guest Choice)"
+    ],
+    "garnish": "Orange Peel (Express and rub against rim of glass)",
+    "type": "drink",
+    "sourcePage": 10,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-11",
+    "name": "CLASSIC MOSCOW MULE",
+    "category": "Classic Cocktails",
+    "image": "images/cocktail-11.webp",
+    "description": "Lime Wedge (Squeeze & Drop), Simple Syrup, Grey Goose Vodka, Fever Tree Ginger Beer",
+    "allergens": [],
+    "ingredients": [
+      "Lime Wedge (Squeeze & Drop)",
+      "Simple Syrup",
+      "Grey Goose Vodka",
+      "Fever Tree Ginger Beer"
+    ],
+    "garnish": "Lime wheel",
+    "type": "drink",
+    "sourcePage": 11,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-12",
+    "name": "APEROL SPRITZ",
+    "category": "Classic Cocktails",
+    "image": "images/cocktail-12.webp",
+    "description": "Mionetto Prosecco, Aperol, with soda water",
+    "allergens": [],
+    "ingredients": [
+      "Mionetto Prosecco",
+      "Aperol",
+      "with soda water"
+    ],
+    "garnish": "Orange Slice",
+    "type": "drink",
+    "sourcePage": 12,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-13",
+    "name": "HUGO/ELDERFLOWER SPRITZ",
+    "category": "Classic Cocktails",
+    "image": "images/cocktail-13.webp",
+    "description": "Prosecco, simple syrup, St Germain Elderflower Liqueur, with Soda Water",
+    "allergens": [],
+    "ingredients": [
+      "Prosecco",
+      "simple syrup",
+      "St Germain Elderflower Liqueur",
+      "with Soda Water"
+    ],
+    "garnish": "Lime Wheel & Mint Sprig",
+    "type": "drink",
+    "sourcePage": 13,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-14",
+    "name": "PALOMA",
+    "category": "Classic Cocktails",
+    "image": "images/cocktail-14.webp",
+    "description": "lime wedge (squeeze), kosher salt, Milagro Silver Tequila, with Q Mixers – Spectacular Grapefruit",
+    "allergens": [],
+    "ingredients": [
+      "lime wedge (squeeze)",
+      "kosher salt",
+      "Milagro Silver Tequila",
+      "with Q Mixers – Spectacular Grapefruit"
+    ],
+    "garnish": "Lime Wedge (Salt rim optional)",
+    "type": "drink",
+    "sourcePage": 14,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-15",
+    "name": "SPIKED STRAWBERRY LEMONADE",
+    "category": "Classic Cocktails",
+    "image": "images/cocktail-15.webp",
+    "description": "lemonade (), strawberry purée, Tito’s Handmade Vodka",
+    "allergens": [],
+    "ingredients": [
+      "lemonade ()",
+      "strawberry purée",
+      "Tito’s Handmade Vodka"
+    ],
+    "garnish": "Strawberry half",
+    "type": "drink",
+    "sourcePage": 15,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-17",
+    "name": "BLUSHING GEISHA",
+    "category": "Signature Cocktails",
+    "image": "images/cocktail-17.webp",
+    "description": "lemon sour, BOLS Black Raspberry, SKYY Raspberry Vodka, soda water",
+    "allergens": [],
+    "ingredients": [
+      "lemon sour",
+      "BOLS Black Raspberry",
+      "SKYY Raspberry Vodka",
+      "soda water"
+    ],
+    "garnish": "Edible Orchid (sugar rim)",
+    "type": "drink",
+    "sourcePage": 17,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-18",
+    "name": "DRAGON BITE",
+    "category": "Signature Cocktails",
+    "image": "images/cocktail-18.webp",
+    "description": "yuzu sour, lemon sour, strawberry purée, Absolut Citron Vodka, Bacardi Dragonberry Rum, with soda water",
+    "allergens": [],
+    "ingredients": [
+      "yuzu sour",
+      "lemon sour",
+      "strawberry purée",
+      "Absolut Citron Vodka",
+      "Bacardi Dragonberry Rum",
+      "with soda water"
+    ],
+    "garnish": "Strawberry half & Lemon slice",
+    "type": "drink",
+    "sourcePage": 18,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-19",
+    "name": "SAKE SANGRIA: RED PORT",
+    "category": "Signature Cocktails",
+    "image": "images/cocktail-19.webp",
+    "description": "Lemon Sour, Joto Yuzu Sake, Fonseca Bin 27. Port, Red Wine (14 Hands Merlot), with soda water",
+    "allergens": [],
+    "ingredients": [
+      "Lemon Sour",
+      "Joto Yuzu Sake",
+      "Fonseca Bin 27. Port",
+      "Red Wine (14 Hands Merlot)",
+      "with soda water"
+    ],
+    "garnish": "Orange Slice & Cherry",
+    "type": "drink",
+    "sourcePage": 19,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-20",
+    "name": "SAKE SANGRIA: WHITE PEACH",
+    "category": "Signature Cocktails",
+    "image": "images/cocktail-20.webp",
+    "description": "Finest Call Peach Purée, BOLS Peach Schnapps, DOLE Pineapple Juice, BOLS Elderflower, House Sake, White Wine (Chateau Ste. Michelle Riesling ), with soda water",
+    "allergens": [],
+    "ingredients": [
+      "Finest Call Peach Purée",
+      "BOLS Peach Schnapps",
+      "DOLE Pineapple Juice",
+      "BOLS Elderflower",
+      "House Sake",
+      "White Wine (Chateau Ste. Michelle Riesling )",
+      "with soda water"
+    ],
+    "garnish": "Lemon Slice & Cherry",
+    "type": "drink",
+    "sourcePage": 20,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-21",
+    "name": "SPARKLING STRAWBERRY SANGRIA",
+    "category": "Signature Cocktails",
+    "image": "images/cocktail-21.webp",
+    "description": "strawberry halves, lemon sour, Combier d’Orange, Absolut Citron Vodka, with Sparkling Rosé",
+    "allergens": [],
+    "ingredients": [
+      "strawberry halves",
+      "lemon sour",
+      "Combier d’Orange",
+      "Absolut Citron Vodka",
+      "with Sparkling Rosé"
+    ],
+    "garnish": "Lemon Wheel (inside), Strawberry, & Mint Sprig",
+    "type": "drink",
+    "sourcePage": 21,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-22",
+    "name": "GINGER BLOSSOM",
+    "category": "Signature Cocktails",
+    "image": "images/cocktail-22.webp",
+    "description": "strawberry, lime juice, Sparkling Grapefruit, BOLS Elderflower, New Amsterdam Vodka, ginger beer, club soda",
+    "allergens": [],
+    "ingredients": [
+      "strawberry",
+      "lime juice",
+      "Sparkling Grapefruit",
+      "BOLS Elderflower",
+      "New Amsterdam Vodka",
+      "ginger beer",
+      "club soda"
+    ],
+    "garnish": "Strawberry half & Lime wedge",
+    "type": "drink",
+    "sourcePage": 22,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-23",
+    "name": "CUCUMBER COLLINS",
+    "category": "Signature Cocktails",
+    "image": "images/cocktail-23.webp",
+    "description": "cucumber slice, lime wedge (squeeze & discard), lemon sour, BOLS Elderflower, Hendrick’s Gin or REYKA Vodka (Guest Choice), with soda water",
+    "allergens": [],
+    "ingredients": [
+      "cucumber slice",
+      "lime wedge (squeeze & discard)",
+      "lemon sour",
+      "BOLS Elderflower",
+      "Hendrick’s Gin or REYKA Vodka (Guest Choice)",
+      "with soda water"
+    ],
+    "garnish": "Shiso leaf & Cucumber",
+    "type": "drink",
+    "sourcePage": 23,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-24",
+    "name": "SPRITZ UP YOUR LIFE",
+    "category": "Signature Cocktails",
+    "image": "images/cocktail-24.webp",
+    "description": "lemon sour, POM Pomegranate Juice, Ocean Spray Cranberry Juice Cocktail, Cîroc Red Berry Vodka, Mionetto Prosecco",
+    "allergens": [],
+    "ingredients": [
+      "lemon sour",
+      "POM Pomegranate Juice",
+      "Ocean Spray Cranberry Juice Cocktail",
+      "Cîroc Red Berry Vodka",
+      "Mionetto Prosecco"
+    ],
+    "garnish": "Orange wheel & Rosemary Sprig",
+    "type": "drink",
+    "sourcePage": 24,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-25",
+    "name": "JAPANESE MULE",
+    "category": "Signature Cocktails",
+    "image": "images/cocktail-25.webp",
+    "description": "lime wedge ( squeeze & drop), Sho Chiku Bai Crème de Sake Nigori, Absolut Citron Vodka, with ginger beer",
+    "allergens": [],
+    "ingredients": [
+      "lime wedge ( squeeze & drop)",
+      "Sho Chiku Bai Crème de Sake Nigori",
+      "Absolut Citron Vodka",
+      "with ginger beer"
+    ],
+    "garnish": "Lime wheel",
+    "type": "drink",
+    "sourcePage": 25,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-26",
+    "name": "“RA”CKIN’ LONG ISLAND",
+    "category": "Signature Cocktails",
+    "image": "images/cocktail-26.webp",
+    "description": "RA Iced Tea, Lemon Sour, Combier Liqueur d’Orange, Grey Goose Vodka, Bacardi Superior Light Rum, Hendrick’s Gin, Patrón Silver Tequila, of cola",
+    "allergens": [],
+    "ingredients": [
+      "RA Iced Tea",
+      "Lemon Sour",
+      "Combier Liqueur d’Orange",
+      "Grey Goose Vodka",
+      "Bacardi Superior Light Rum",
+      "Hendrick’s Gin",
+      "Patrón Silver Tequila",
+      "of cola"
+    ],
+    "garnish": "Lemon Wedge",
+    "type": "drink",
+    "sourcePage": 26,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-28",
+    "name": "MOSHI MOJITO - LIME",
+    "category": "Mojitos",
+    "image": "images/cocktail-28.webp",
+    "description": "mint leaves 075 simple syrup .75 lime juice, Don Q Limon Rum, with soda water",
+    "allergens": [],
+    "ingredients": [
+      "mint leaves 075 simple syrup .75 lime juice",
+      "Don Q Limon Rum",
+      "with soda water"
+    ],
+    "garnish": "Lime Wedge & Mint Sprig",
+    "type": "drink",
+    "sourcePage": 28,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-29",
+    "name": "MOSHI MOJITO - MANGO",
+    "category": "Mojitos",
+    "image": "images/cocktail-29.webp",
+    "description": "mint leaves, Perfect Purée – Mango, simple syrup, lime juice, Don Q Passion Fruit, Don Q Limon Rum, with soda water",
+    "allergens": [],
+    "ingredients": [
+      "mint leaves",
+      "Perfect Purée – Mango",
+      "simple syrup",
+      "lime juice",
+      "Don Q Passion Fruit",
+      "Don Q Limon Rum",
+      "with soda water"
+    ],
+    "garnish": "Lime Wedge & Mint Sprig",
+    "type": "drink",
+    "sourcePage": 29,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-30",
+    "name": "MOSHI MOJITO - STRAWBERRY",
+    "category": "Mojitos",
+    "image": "images/cocktail-30.webp",
+    "description": "mint leaves, strawberry purée, simple syrup, lime juice, Don Q Passion Fruit, Don Q Limon Rum, Club Soda",
+    "allergens": [],
+    "ingredients": [
+      "mint leaves",
+      "strawberry purée",
+      "simple syrup",
+      "lime juice",
+      "Don Q Passion Fruit",
+      "Don Q Limon Rum",
+      "Club Soda"
+    ],
+    "garnish": "Lime Wedge & Mint Sprig",
+    "type": "drink",
+    "sourcePage": 30,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-31",
+    "name": "MOSHI MOJITO – PASSION FRUIT",
+    "category": "Mojitos",
+    "image": "images/cocktail-31.webp",
+    "description": "mint leaves, Liber & Co. – Passion Fruit Syrup, simple syrup, lime juice, Don Q Passion Fruit, Don Q Limon Rum, with soda water",
+    "allergens": [],
+    "ingredients": [
+      "mint leaves",
+      "Liber & Co. – Passion Fruit Syrup",
+      "simple syrup",
+      "lime juice",
+      "Don Q Passion Fruit",
+      "Don Q Limon Rum",
+      "with soda water"
+    ],
+    "garnish": "Lime Wedge & Mint Sprig",
+    "type": "drink",
+    "sourcePage": 31,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-32",
+    "name": "MOSHI MOJITO - COCONUT",
+    "category": "Mojitos",
+    "image": "images/cocktail-32.webp",
+    "description": "mint leaves, DOLE Pineapple Juice, Island Oasis - Piña Colada Mix, simple syrup, lime juice, Don Q Passion Fruit, Don Q Limon Rum, with soda water",
+    "allergens": [],
+    "ingredients": [
+      "mint leaves",
+      "DOLE Pineapple Juice",
+      "Island Oasis - Piña Colada Mix",
+      "simple syrup",
+      "lime juice",
+      "Don Q Passion Fruit",
+      "Don Q Limon Rum",
+      "with soda water"
+    ],
+    "garnish": "Lime wedge & Mint sprig",
+    "type": "drink",
+    "sourcePage": 32,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-34",
+    "name": "EMPEROR’S MARGARITA - TRADITIONAL",
+    "category": "Margaritas",
+    "image": "images/cocktail-34.webp",
+    "description": "Yuzu Sour, lime juice, MONIN Agave Nectar, Combier Liqueur d’Orange, Casamigos Blanco Tequila",
+    "allergens": [],
+    "ingredients": [
+      "Yuzu Sour",
+      "lime juice",
+      "MONIN Agave Nectar",
+      "Combier Liqueur d’Orange",
+      "Casamigos Blanco Tequila"
+    ],
+    "garnish": "Lime Wheel (Salt rim optional)",
+    "type": "drink",
+    "sourcePage": 34,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-35",
+    "name": "EMPEROR’S MARGARITA - CUCUMBER",
+    "category": "Margaritas",
+    "image": "images/cocktail-35.webp",
+    "description": "cucumber slice, Yuzu Sour, lime juice, MONIN Agave Nectar, Combier Liqueur d’Orange, Casamigos Blanco Tequila",
+    "allergens": [],
+    "ingredients": [
+      "cucumber slice",
+      "Yuzu Sour",
+      "lime juice",
+      "MONIN Agave Nectar",
+      "Combier Liqueur d’Orange",
+      "Casamigos Blanco Tequila"
+    ],
+    "garnish": "Lime Wheel & Cucumber Slice (Salt rim optional)",
+    "type": "drink",
+    "sourcePage": 35,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-36",
+    "name": "EMPEROR’S MARGARITA - MANGO",
+    "category": "Margaritas",
+    "image": "images/cocktail-36.webp",
+    "description": "Perfect Purée – Mango, lime juice, Combier Liqueur d’Orange, Casamigos Blanco Tequila",
+    "allergens": [],
+    "ingredients": [
+      "Perfect Purée – Mango",
+      "lime juice",
+      "Combier Liqueur d’Orange",
+      "Casamigos Blanco Tequila"
+    ],
+    "garnish": "Lime Wheel (Salt rim optional)",
+    "type": "drink",
+    "sourcePage": 36,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-37",
+    "name": "EMPEROR’S MARGARITA - STRAWBERRY",
+    "category": "Margaritas",
+    "image": "images/cocktail-37.webp",
+    "description": "strawberry purée, lime juice, Combier Liqueur d’Orange, Casamigos Blanco Tequila",
+    "allergens": [],
+    "ingredients": [
+      "strawberry purée",
+      "lime juice",
+      "Combier Liqueur d’Orange",
+      "Casamigos Blanco Tequila"
+    ],
+    "garnish": "Lime Wheel (Salt rim optional)",
+    "type": "drink",
+    "sourcePage": 37,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-38",
+    "name": "EMPEROR’S MARGARITA – PASSION FRUIT",
+    "category": "Margaritas",
+    "image": "images/cocktail-38.webp",
+    "description": "Liber & Co. – Passion Fruit, lime juice, Combier Liqueur d’Orange, Casamigos Blanco Tequila",
+    "allergens": [],
+    "ingredients": [
+      "Liber & Co. – Passion Fruit",
+      "lime juice",
+      "Combier Liqueur d’Orange",
+      "Casamigos Blanco Tequila"
+    ],
+    "garnish": "Lime Wheel (Salt rim optional)",
+    "type": "drink",
+    "sourcePage": 38,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-39",
+    "name": "PRICKLY PEAR MARGARITA",
+    "category": "Margaritas",
+    "image": "images/cocktail-39.webp",
+    "description": "lime juice, MONIN Organic Agave Nectar, The Perfect Purée – Prickly Pear, Milagro Reposado Tequila, Grand Marnier (float)",
+    "allergens": [],
+    "ingredients": [
+      "lime juice",
+      "MONIN Organic Agave Nectar",
+      "The Perfect Purée – Prickly Pear",
+      "Milagro Reposado Tequila",
+      "Grand Marnier (float)"
+    ],
+    "garnish": "Edible Orchid (Salt rim optional)",
+    "type": "drink",
+    "sourcePage": 39,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-40",
+    "name": "BLAZIN’ DRAGON",
+    "category": "Margaritas",
+    "image": "images/cocktail-40.webp",
+    "description": "REAL Passion Fruit Syrup, lime juice, Ancho Reyes, Del Maguey Vida Mezcal* (Deplete obsolete Mezcal first), Lunazul Blanco Tequila",
+    "allergens": [],
+    "ingredients": [
+      "REAL Passion Fruit Syrup",
+      "lime juice",
+      "Ancho Reyes",
+      "Del Maguey Vida Mezcal* (Deplete obsolete Mezcal first)",
+      "Lunazul Blanco Tequila"
+    ],
+    "garnish": "Lime Wheel (Togarashi rim)",
+    "type": "drink",
+    "sourcePage": 40,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-41",
+    "name": "WATERMELON MARGARITA",
+    "category": "Margaritas",
+    "image": "images/cocktail-41.webp",
+    "description": "lime juice, REAL Watermelon Syrup, Combier Liqueur d’Orange, Astral Blanco Tequila",
+    "allergens": [],
+    "ingredients": [
+      "lime juice",
+      "REAL Watermelon Syrup",
+      "Combier Liqueur d’Orange",
+      "Astral Blanco Tequila"
+    ],
+    "garnish": "Watermelon Slice (Salt rim optional)",
+    "type": "drink",
+    "sourcePage": 41,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-42",
+    "name": "RA MARGARITA",
+    "category": "Margaritas",
+    "image": "images/cocktail-42.webp",
+    "description": "lime juice, MONIN Organic Agave Nectar, BOLS Triple Sec, Espolón Blanco Tequila",
+    "allergens": [],
+    "ingredients": [
+      "lime juice",
+      "MONIN Organic Agave Nectar",
+      "BOLS Triple Sec",
+      "Espolón Blanco Tequila"
+    ],
+    "garnish": "Lime Wedge (Salt rim optional)",
+    "type": "drink",
+    "sourcePage": 42,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-44",
+    "name": "SHISO NAUGHTY",
+    "category": "Martinis",
+    "image": "images/cocktail-44.webp",
+    "description": "Shiso Leaf, Lemon Sour, Yuzu Sour, X -Rated Liqueur, SKYY Pineapple Vodka",
+    "allergens": [],
+    "ingredients": [
+      "Shiso Leaf",
+      "Lemon Sour",
+      "Yuzu Sour",
+      "X -Rated Liqueur",
+      "SKYY Pineapple Vodka"
+    ],
+    "garnish": "Strawberry Half",
+    "type": "drink",
+    "sourcePage": 44,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-45",
+    "name": "NIGORI LYCHEETINI",
+    "category": "Martinis",
+    "image": "images/cocktail-45.webp",
+    "description": "Sho Chiku Bai Crème de Sake Nigori, Perfect Purée – Lychee, Wheatly Vodka",
+    "allergens": [],
+    "ingredients": [
+      "Sho Chiku Bai Crème de Sake Nigori",
+      "Perfect Purée – Lychee",
+      "Wheatly Vodka"
+    ],
+    "garnish": "Skewered Lychee Fruit",
+    "type": "drink",
+    "sourcePage": 45,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-46",
+    "name": "NAKED LADY MARTINI",
+    "category": "Martinis",
+    "image": "images/cocktail-46.webp",
+    "description": "Lemon Sour, Liber & Co. – Passion Fruit Syrup, Perfect Purée - Mango, Don Q Passion Fruit Rum, Absolut Mango Vodka, Sho Chiku Bai MIO Sparkling Sake",
+    "allergens": [],
+    "ingredients": [
+      "Lemon Sour",
+      "Liber & Co. – Passion Fruit Syrup",
+      "Perfect Purée - Mango",
+      "Don Q Passion Fruit Rum",
+      "Absolut Mango Vodka",
+      "Sho Chiku Bai MIO Sparkling Sake"
+    ],
+    "garnish": "Edible Orchid",
+    "type": "drink",
+    "sourcePage": 46,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-47",
+    "name": "ESPRESSO MARTINI - Vodka",
+    "category": "Martinis",
+    "image": "images/cocktail-47.webp",
+    "description": "Fever Tree Espresso Martini Mix, Simple Syrup, Kahl úa Coffee Liqueur, Ketel One Vodka",
+    "allergens": [],
+    "ingredients": [
+      "Fever Tree Espresso Martini Mix",
+      "Simple Syrup",
+      "Kahl úa Coffee Liqueur",
+      "Ketel One Vodka"
+    ],
+    "garnish": "coffee beans",
+    "type": "drink",
+    "sourcePage": 47,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-48",
+    "name": "ESPRESSO MARTINI - Tequila",
+    "category": "Martinis",
+    "image": "images/cocktail-48.webp",
+    "description": "Fever Tree Espresso Martini Mix, simple syrup, Kahl úa Coffee Liqueur, Milagro Blanco Tequila",
+    "allergens": [],
+    "ingredients": [
+      "Fever Tree Espresso Martini Mix",
+      "simple syrup",
+      "Kahl úa Coffee Liqueur",
+      "Milagro Blanco Tequila"
+    ],
+    "garnish": "coffee beans",
+    "type": "drink",
+    "sourcePage": 48,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-49",
+    "name": "ESPRESSO MARTINI - Cognac",
+    "category": "Martinis",
+    "image": "images/cocktail-49.webp",
+    "description": "Fever Tree Espresso Martini Mix, simple syrup, Kahl úa Coffee Liqueur, Hennessy VS Cognac",
+    "allergens": [],
+    "ingredients": [
+      "Fever Tree Espresso Martini Mix",
+      "simple syrup",
+      "Kahl úa Coffee Liqueur",
+      "Hennessy VS Cognac"
+    ],
+    "garnish": "coffee beans",
+    "type": "drink",
+    "sourcePage": 49,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-50",
+    "name": "BLUE -DROP",
+    "category": "Martinis",
+    "image": "images/cocktail-50.webp",
+    "description": "Lemon Sour, Hpnotiq Liqueur, Absolut Citron Vodka",
+    "allergens": [],
+    "ingredients": [
+      "Lemon Sour",
+      "Hpnotiq Liqueur",
+      "Absolut Citron Vodka"
+    ],
+    "garnish": "Sugar rim & Sugar -coated lemon wedge",
+    "type": "drink",
+    "sourcePage": 50,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-52",
+    "name": "BLUE SAMURAI",
+    "category": "Punch Bowls",
+    "image": "images/cocktail-52.webp",
+    "description": "Blue Samurai Premix, Club Soda",
+    "allergens": [],
+    "ingredients": [
+      "Blue Samurai Premix",
+      "Club Soda"
+    ],
+    "garnish": "Orange Slices & 4 Cherries",
+    "type": "drink",
+    "sourcePage": 52,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-53",
+    "name": "BABY SAMURAI (Baby)",
+    "category": "Punch Bowls",
+    "image": "images/cocktail-53.webp",
+    "description": "Blue Samurai Premix, Club Soda",
+    "allergens": [],
+    "ingredients": [
+      "Blue Samurai Premix",
+      "Club Soda"
+    ],
+    "garnish": "Orange Slice & 1 Cherry",
+    "type": "drink",
+    "sourcePage": 53,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-55",
+    "name": "WICKED WATERMELON PUNCH BOWL",
+    "category": "Frozen Cocktails",
+    "image": "images/cocktail-55.webp",
+    "description": "Wicked Watermelon Batch (from frozen machine)",
+    "allergens": [],
+    "ingredients": [
+      "Wicked Watermelon Batch (from frozen machine)"
+    ],
+    "garnish": "Watermelon slice, Strawberry, & Mint sprig",
+    "type": "drink",
+    "sourcePage": 55,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-56",
+    "name": "WICKED WATERMELON",
+    "category": "Frozen Cocktails",
+    "image": "images/cocktail-56.webp",
+    "description": "Wicked Watermelon Batch (from frozen machine)",
+    "allergens": [],
+    "ingredients": [
+      "Wicked Watermelon Batch (from frozen machine)"
+    ],
+    "garnish": "Watermelon slice, Strawberry, & Mint sprig",
+    "type": "drink",
+    "sourcePage": 56,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-57",
+    "name": "FROZEN UMAMI MARGARITA - Traditional",
+    "category": "Frozen Cocktails",
+    "image": "images/cocktail-57.webp",
+    "description": "Frozen Margarita Batch (from frozen machine)",
+    "allergens": [],
+    "ingredients": [
+      "Frozen Margarita Batch (from frozen machine)"
+    ],
+    "garnish": "Lime wheel",
+    "type": "drink",
+    "sourcePage": 57,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-58",
+    "name": "FROZEN UMAMI MARGARITA - Flavors",
+    "category": "Frozen Cocktails",
+    "image": "images/cocktail-58.webp",
+    "description": "Flavored Purée, Frozen Margarita Batch (from frozen machine) FLAVOR OPTIONS: Mango, Strawberry, or Passion Fruit",
+    "allergens": [],
+    "ingredients": [
+      "Flavored Purée",
+      "Frozen Margarita Batch (from frozen machine) FLAVOR OPTIONS: Mango, Strawberry, or Passion Fruit"
+    ],
+    "garnish": "Lime wheel",
+    "type": "drink",
+    "sourcePage": 58,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-59",
+    "name": "FUZZY MOMO BELLINI",
+    "category": "Frozen Cocktails",
+    "image": "images/cocktail-59.webp",
+    "description": "Strawberry Purée, Frozen Momo Bellini Batch (from frozen machine)",
+    "allergens": [],
+    "ingredients": [
+      "Strawberry Purée",
+      "Frozen Momo Bellini Batch (from frozen machine)"
+    ],
+    "garnish": "Strawberry",
+    "type": "drink",
+    "sourcePage": 59,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-60",
+    "name": "COCO LOCO - STRAWBERRY",
+    "category": "Frozen Cocktails",
+    "image": "images/cocktail-60.webp",
+    "description": "Strawberry Purée, Frozen Coco Loco Batch (from frozen machine)",
+    "allergens": [],
+    "ingredients": [
+      "Strawberry Purée",
+      "Frozen Coco Loco Batch (from frozen machine)"
+    ],
+    "garnish": "Whipped cream & Cherry",
+    "type": "drink",
+    "sourcePage": 60,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-61",
+    "name": "COCO LOCO - MANGO",
+    "category": "Frozen Cocktails",
+    "image": "images/cocktail-61.webp",
+    "description": "Perfect Purée – Mango, Frozen Coco Loco Batch (from frozen machine)",
+    "allergens": [],
+    "ingredients": [
+      "Perfect Purée – Mango",
+      "Frozen Coco Loco Batch (from frozen machine)"
+    ],
+    "garnish": "Whipped cream & Cherry",
+    "type": "drink",
+    "sourcePage": 61,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-63",
+    "name": "GREEN TEA SHOT",
+    "category": "Shots",
+    "image": "images/cocktail-63.webp",
+    "description": "Lemon Sour, BOLS Peach Schnapps, Jameson Irish Whiskey",
+    "allergens": [],
+    "ingredients": [
+      "Lemon Sour",
+      "BOLS Peach Schnapps",
+      "Jameson Irish Whiskey"
+    ],
+    "garnish": "No garnish",
+    "type": "drink",
+    "sourcePage": 63,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-64",
+    "name": "LEMON TEA SHOT",
+    "category": "Shots",
+    "image": "images/cocktail-64.webp",
+    "description": "Lemon Sour, BOLS Triple Sec, Absolut Citron Vodka",
+    "allergens": [],
+    "ingredients": [
+      "Lemon Sour",
+      "BOLS Triple Sec",
+      "Absolut Citron Vodka"
+    ],
+    "garnish": "Lemon wedge (sugar coated)",
+    "type": "drink",
+    "sourcePage": 64,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-66",
+    "name": "CABANA BOY",
+    "category": "Mocktails",
+    "image": "images/cocktail-66.webp",
+    "description": "cold water (), Lemon Sour, Monin Guava Syrup, Perfect Purée – Lychee",
+    "allergens": [],
+    "ingredients": [
+      "cold water ()",
+      "Lemon Sour",
+      "Monin Guava Syrup",
+      "Perfect Purée – Lychee"
+    ],
+    "garnish": "Mint sprig through lemon wheel & Dash of cinnamon sugar",
+    "type": "drink",
+    "sourcePage": 66,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-67",
+    "name": "BERRY BERRY NICE",
+    "category": "Mocktails",
+    "image": "images/cocktail-67.webp",
+    "description": "cold water (), Lemon Sour, Monin Blueberry Syrup",
+    "allergens": [],
+    "ingredients": [
+      "cold water ()",
+      "Lemon Sour",
+      "Monin Blueberry Syrup"
+    ],
+    "garnish": "Basil sprig & Lime wheel",
+    "type": "drink",
+    "sourcePage": 67,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-68",
+    "name": "CARRIBEAN PASSION",
+    "category": "Mocktails",
+    "image": "images/cocktail-68.webp",
+    "description": "cold water (), DOLE Pineapple Juice, Liber & Co. Passion Fruit Syrup, Island Oasis Piña Colada Mix",
+    "allergens": [],
+    "ingredients": [
+      "cold water ()",
+      "DOLE Pineapple Juice",
+      "Liber & Co. Passion Fruit Syrup",
+      "Island Oasis Piña Colada Mix"
+    ],
+    "garnish": "Edible Orchid",
+    "type": "drink",
+    "sourcePage": 68,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-70",
+    "name": "STRAWBERRY LEMONADE",
+    "category": "Non-Alcoholic Drinks",
+    "image": "images/cocktail-70.webp",
+    "description": "Strawberry Purée, Lemonade ()",
+    "allergens": [],
+    "ingredients": [
+      "Strawberry Purée",
+      "Lemonade ()"
+    ],
+    "garnish": "Lemon wedge (sugar rim)",
+    "type": "drink",
+    "sourcePage": 70,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-71",
+    "name": "MANGO LEMONADE",
+    "category": "Non-Alcoholic Drinks",
+    "image": "images/cocktail-71.webp",
+    "description": "Perfect Purée – Mango, Lemonade ()",
+    "allergens": [],
+    "ingredients": [
+      "Perfect Purée – Mango",
+      "Lemonade ()"
+    ],
+    "garnish": "Lemon wedge (sugar rim)",
+    "type": "drink",
+    "sourcePage": 71,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
+  },
+  {
+    "id": "cocktail-72",
+    "name": "ICED MATCHA",
+    "category": "Non-Alcoholic Drinks",
+    "image": "images/cocktail-72.webp",
+    "description": "Iced Matcha",
+    "allergens": [],
+    "ingredients": [
+      "Iced Matcha"
+    ],
+    "garnish": "Lemon wedge",
+    "type": "drink",
+    "sourcePage": 72,
+    "source": "RA Sushi Cocktail Deck",
+    "requiresReview": true
   }
 ]
