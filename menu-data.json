@@ -2475,5 +2475,88 @@
     "sourcePage": 72,
     "source": "RA Sushi Cocktail Deck",
     "requiresReview": true
+  },
+  {
+    "id": "lto-dotd-2026-01",
+    "name": "Marigold Margarita",
+    "category": "Limited Time Offers",
+    "image": "images/lto-day-of-dead-01.jpg",
+    "description": "Pumpkin-spiced margarita with reposado tequila and lime.",
+    "allergens": [],
+    "ingredients": [
+      "Espolòn Reposado Tequila",
+      "BOLS Triple Sec",
+      "Lime juice",
+      "REAL Pumpkin Spice Purée",
+      "Pumpkin spice"
+    ],
+    "garnish": "Cinnamon sugar rim and marigold flower",
+    "type": "drink",
+    "sourcePage": 5,
+    "source": "Espolòn x RA Day of the Dead 2026",
+    "requiresReview": true,
+    "limitedTime": true
+  },
+  {
+    "id": "lto-dotd-2026-02",
+    "name": "Zero Proof Marigold Margarita",
+    "category": "Limited Time Offers",
+    "image": "images/lto-day-of-dead-02.jpg",
+    "description": "Pumpkin-spiced zero-proof agave-style margarita with lime.",
+    "allergens": [],
+    "ingredients": [
+      "Ritual Zero-Proof Agave Spirit Alternative",
+      "Finest Call Triple Sec",
+      "Lime juice",
+      "REAL Pumpkin Spice Purée",
+      "Pumpkin spice"
+    ],
+    "garnish": "Cinnamon sugar rim and marigold flower",
+    "type": "drink",
+    "sourcePage": 6,
+    "source": "Espolòn x RA Day of the Dead 2026",
+    "requiresReview": true,
+    "limitedTime": true
+  },
+  {
+    "id": "lto-dotd-2026-03",
+    "name": "Sugar Skull Shooter",
+    "category": "Limited Time Offers",
+    "image": "images/lto-day-of-dead-03.jpg",
+    "description": "A tequila shooter with mango, watermelon, and a spicy kick.",
+    "allergens": [],
+    "ingredients": [
+      "Espolòn Blanco Tequila",
+      "BOLS Triple Sec",
+      "The Perfect Purée Mango Purée",
+      "Watermelon liqueur",
+      "Tabasco"
+    ],
+    "garnish": "Togarashi salt rim",
+    "type": "drink",
+    "sourcePage": 7,
+    "source": "Espolòn x RA Day of the Dead 2026",
+    "requiresReview": true,
+    "limitedTime": true
+  },
+  {
+    "id": "lto-dotd-2026-04",
+    "name": "Old Skull Fashioned",
+    "category": "Limited Time Offers",
+    "image": "images/lto-day-of-dead-04.jpg",
+    "description": "A bourbon-and-añejo tequila twist on the Old Fashioned.",
+    "allergens": [],
+    "ingredients": [
+      "Bulleit Bourbon",
+      "Espolòn Añejo Tequila",
+      "Monin Agave Nectar",
+      "Peach bitters"
+    ],
+    "garnish": "Large ice cube and skull pick",
+    "type": "drink",
+    "sourcePage": 8,
+    "source": "Espolòn x RA Day of the Dead 2026",
+    "requiresReview": true,
+    "limitedTime": true
   }
 ]
